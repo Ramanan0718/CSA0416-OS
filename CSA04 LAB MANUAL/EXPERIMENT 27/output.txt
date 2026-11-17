@@ -1,5 +1,0 @@
-Enter directory to list (. for current): compile.log
-input.txt
-output.txt
-prog
-program.c

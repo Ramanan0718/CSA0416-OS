@@ -1,2 +1,0 @@
-Expected counter value: 2000000
-Final counter value   : 2000000

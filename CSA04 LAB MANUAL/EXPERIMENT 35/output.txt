@@ -1,8 +1,0 @@
-Enter number of file blocks: Data for file block 0: Data for file block 1: Data for file block 2: Data for file block 3: 
-Index block:
-  entry 0 -> disk block 10
-  entry 1 -> disk block 13
-  entry 2 -> disk block 16
-  entry 3 -> disk block 19
-
-File block to read: Index entry 3 -> disk block 19 -> data = block-D

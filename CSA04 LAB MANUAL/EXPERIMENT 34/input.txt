@@ -1,5 +1,0 @@
-3
-alpha
-beta
-gamma
-2

@@ -1,9 +1,0 @@
-Enter number of processes: Enter burst time of each process (all arrive at time 0):
-P1: P2: P3: 
-Process	Burst	Waiting	Turnaround
-P1	24	0	24
-P2	3	24	27
-P3	3	27	30
-
-Average Waiting Time    = 17.00
-Average Turnaround Time = 27.00

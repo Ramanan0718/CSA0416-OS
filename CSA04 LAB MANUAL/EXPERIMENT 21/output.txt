@@ -1,5 +1,0 @@
-Number of memory holes: Hole sizes: Number of processes: Process sizes: 
-Worst fit allocation:
-P1 (212) -> hole 2 (size 500)
-P2 (417) must wait
-P3 (112) -> hole 4 (size 300)

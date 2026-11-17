@@ -1,2 +1,0 @@
-Producer (child): sent    -> "Hello, message queue!"
-Consumer (parent): received -> "Hello, message queue!"

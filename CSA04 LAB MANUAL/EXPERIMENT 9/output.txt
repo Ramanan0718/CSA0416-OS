@@ -1,2 +1,0 @@
-Child  : read from shared memory -> "Hello, shared memory!"
-Parent : wrote to shared memory  -> "Hello, shared memory!"

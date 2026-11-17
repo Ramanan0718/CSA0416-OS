@@ -1,6 +1,0 @@
-Enter number of blocks to write: Data for block 1: Data for block 2: Data for block 3: Data for block 4: 
-Directory: first block = block-A, last block = block-D
-Block number to read: Following pointers from the first block:
-  block 1 -> next
-  block 2 -> next
-Block 3 data = block-C

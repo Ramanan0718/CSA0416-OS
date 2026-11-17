@@ -1,4 +1,0 @@
-Number of requests: Request queue: Initial head position: 
-Head movement (moving toward higher tracks first): 53 -> 65 -> 67 -> 98 -> 122 -> 124 -> 183 -> 199 (end of disk) -> 37 -> 14
-Total head movement = 331
-Average seek = 41.38

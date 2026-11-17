@@ -1,3 +1,0 @@
-(iii) pthread_equal(tid, pthread_self()) = 0 (0 means not equal)
-(i) Thread created and running (arg = 7)
-(ii) Joined thread; its exit value = 42

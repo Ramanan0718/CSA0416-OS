@@ -1,9 +1,0 @@
-fcntl F_GETFL: access mode = read/write
-lseek to 3 -> offset 3, byte there = '3'
-stat foo.txt: size = 10 bytes, regular file = yes
-Entries in current directory:
-  compile.log
-  foo.txt
-  output.txt
-  prog
-  program.c
