@@ -1,0 +1,2 @@
+Enter pattern to search: Enter file name: 2:A fork call copies the process.
+5:Each fork returns twice.

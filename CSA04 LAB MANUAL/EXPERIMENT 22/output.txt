@@ -1,0 +1,5 @@
+Number of memory holes: Hole sizes: Number of processes: Process sizes: 
+Best fit allocation:
+P1 (212) -> hole 4 (size 300)
+P2 (417) -> hole 2 (size 500)
+P3 (112) -> hole 3 (size 200)

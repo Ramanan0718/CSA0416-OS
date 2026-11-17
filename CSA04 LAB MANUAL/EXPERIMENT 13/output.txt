@@ -1,0 +1,6 @@
+Enter number of free memory holes: Enter size of each hole: Enter number of processes: Enter size of each process: Choose strategy (1 = First fit, 2 = Best fit, 3 = Worst fit): 
+Process	Size	Hole allocated
+P1	212	Hole 2 (size 500) -> remaining 288
+P2	417	Hole 5 (size 600) -> remaining 183
+P3	112	Hole 2 (size 288) -> remaining 176
+P4	426	WAIT (no hole big enough)

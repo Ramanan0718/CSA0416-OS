@@ -1,0 +1,12 @@
+Enter number of processes: Enter arrival time and burst time for each process:
+P1 (arrival burst): P2 (arrival burst): P3 (arrival burst): P4 (arrival burst): 
+Execution order: P1 P3 P2 P4 
+
+PID	AT	BT	CT	WT	TAT
+P1	0	7	7	0	7
+P2	1	4	12	7	11
+P3	2	1	8	5	6
+P4	3	4	16	9	13
+
+Average Waiting Time    = 5.25
+Average Turnaround Time = 9.25

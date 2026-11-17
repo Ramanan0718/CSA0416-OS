@@ -1,0 +1,26 @@
+
+1. Create file  2. List user directory  3. Delete file  4. Exit
+Enter choice: User: File: New user directory created for 'users'.
+File 'notes.txt' created in directory of users.
+
+1. Create file  2. List user directory  3. Delete file  4. Exit
+Enter choice: User: File: File 'doc.txt' created in directory of users.
+
+1. Create file  2. List user directory  3. Delete file  4. Exit
+Enter choice: User: File: New user directory created for 'sys'.
+File 'log.txt' created in directory of sys.
+
+1. Create file  2. List user directory  3. Delete file  4. Exit
+Enter choice: User: Directory of users (2 files):
+  notes.txt
+  doc.txt
+
+1. Create file  2. List user directory  3. Delete file  4. Exit
+Enter choice: User: File: File 'notes.txt' deleted from users.
+
+1. Create file  2. List user directory  3. Delete file  4. Exit
+Enter choice: User: Directory of sys (1 files):
+  log.txt
+
+1. Create file  2. List user directory  3. Delete file  4. Exit
+Enter choice: Exiting.

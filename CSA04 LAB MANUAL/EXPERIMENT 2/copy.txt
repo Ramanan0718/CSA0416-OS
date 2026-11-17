@@ -1,0 +1,2 @@
+Hello from source.txt
+This line is copied by the C program.

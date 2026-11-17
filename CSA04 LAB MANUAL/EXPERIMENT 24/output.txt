@@ -1,0 +1,5 @@
+File 'sample.txt' created.
+Data written.
+Data read back:
+Hello, World!
+File 'sample.txt' deleted.

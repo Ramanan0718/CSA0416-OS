@@ -1,0 +1,17 @@
+Reference string: 7 0 1 2 0 3 0 4 2 3 0 3 2
+
+Ref 7: FAULT -> 7 - -
+Ref 0: FAULT -> 7 0 -
+Ref 1: FAULT -> 7 0 1
+Ref 2: FAULT -> 2 0 1
+Ref 0: hit   -> 2 0 1
+Ref 3: FAULT -> 2 0 3
+Ref 0: hit   -> 2 0 3
+Ref 4: FAULT -> 4 0 3
+Ref 2: FAULT -> 4 0 2
+Ref 3: FAULT -> 4 3 2
+Ref 0: FAULT -> 0 3 2
+Ref 3: hit   -> 0 3 2
+Ref 2: hit   -> 0 3 2
+
+Total page faults (LRU) = 9

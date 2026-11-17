@@ -1,0 +1,5 @@
+The operating system creates a process.
+A fork call copies the process.
+Threads share memory.
+Scheduling picks the next process to run.
+Each fork returns twice.

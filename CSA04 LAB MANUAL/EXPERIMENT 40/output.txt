@@ -1,0 +1,6 @@
+Before chmod (owner=user, group=group, others=other):
+-  rw-------  (octal 600)  owner uid=0
+After chmod 664 (rw-rw-r--):
+-  rw-rw-r--  (octal 664)  owner uid=0
+
+Permission meaning: r=4 read, w=2 write, x=1 execute; digits are owner, group, others.

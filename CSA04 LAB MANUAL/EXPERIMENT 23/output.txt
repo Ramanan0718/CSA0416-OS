@@ -1,0 +1,5 @@
+Number of memory holes: Hole sizes: Number of processes: Process sizes: 
+First fit allocation:
+P1 (212) -> hole 2 (size 500)
+P2 (417) must wait
+P3 (112) -> hole 2 (size 288)
